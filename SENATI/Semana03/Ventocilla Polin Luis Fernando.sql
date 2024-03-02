@@ -31,3 +31,5 @@ update Clientes set Email = 'Erikson@senati.pe' where ID = 9
 delete Clientes where ID = 3
 delete Clientes where ID = 7
 
+sql
+
